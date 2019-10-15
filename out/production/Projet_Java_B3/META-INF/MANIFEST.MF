@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: samples.Main
 
+=======
+Manifest-Version: 1.0
+Main-Class: samples.Main
+
+>>>>>>> c20c0c5317a5bb8f723f1601de3d1cd01ec46c7b

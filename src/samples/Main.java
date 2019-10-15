@@ -14,6 +14,8 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         try {
+            // Test
+            System.out.println("Hello");
             //get the screen display size
             Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
             int screenHeight = screenSize.height;

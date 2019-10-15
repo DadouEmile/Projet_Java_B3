@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/Downloads/logiciels/opencv/build/java/opencv-340.jar!/" />
     </CLASSES>
     <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/logiciels/opencv/build/java/x64" />
+    </NATIVE>
     <SOURCES>
       <root url="jar://$USER_HOME$/Downloads/logiciels/opencv/build/java/opencv-340.jar!/" />
     </SOURCES>
